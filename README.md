@@ -1,4 +1,4 @@
-# Hi, I'm Chinenye 👋
+# Hi, I'm Chinenye 
 
 I’m building my path in Machine Learning Engineering, focused on developing practical, deployable solutions that solve real-world problems.
 
