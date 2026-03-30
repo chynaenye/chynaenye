@@ -24,7 +24,7 @@ A machine learning project focused on predicting customer dropout risk in a micr
 - Explored model evaluation with emphasis on recall  
 - Deployed using Streamlit for interactive use  
 
-👉 [[Live Demo](https://microinsurance-predictor.streamlit.app/)(#) | [Repository](https://github.com/chynaenye/microinsurance-predictor)
+👉 [[Live Demo](https://microinsurance-predictor.streamlit.app/)|[Repository](https://github.com/chynaenye/microinsurance-predictor)
 
 ---
 
