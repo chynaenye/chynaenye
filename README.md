@@ -40,7 +40,7 @@ An interactive dashboard for exploring customer behavior and dropout patterns.
 ---
 
 ## ⚙️ Tech Stack
-**Core:** Python, SQL  
+**Core:** R, Python, SQL  
 **Data & ML:** Pandas, scikit-learn  
 **Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
 **Apps & Tools:** Streamlit, Excel  
