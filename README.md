@@ -1,59 +1,65 @@
-# Hi, I'm Chinenye ✌
+# Hi, I'm Chinenye 👋
 
-I’m building my path in Machine Learning Engineering, focused on developing practical, deployable solutions that solve real-world problems.
+I'm a Machine Learning Engineer building AI systems that work in the real world — not just in notebooks.
 
----
-
-## 🔍 What I’m Working On
-
-I’m currently focused on:
-- Building machine learning models for prediction and decision-making  
-- Turning data into useful, actionable insights  
-- Moving from experimentation to building usable applications  
-
-My interest is growing toward **ML systems and MLOps**, with a focus on understanding how models are deployed, monitored, and improved over time.
+I'm drawn to problems where getting it wrong has real consequences — dropped connections, missed risks, systems that fail the people depending on them. That's what drives how I build.
 
 ---
 
 ## 🚀 Projects
 
-### 🧠 Microinsurance Dropout Predictor  
-A machine learning project focused on predicting customer dropout risk in a microinsurance setting.  
+### 📡 Cellular Network Handover Prediction
+A machine learning project predicting when a mobile device will switch from one cell tower to another, using real network signal logs.
 
-- Built a classification model for individual risk prediction  
-- Explored model evaluation with emphasis on recall  
-- Deployed using Streamlit for interactive use  
+- Trained and compared Logistic Regression, Decision Tree, Random Forest, and XGBoost on imbalanced time-series data
+- Used SMOTE and class weighting to address a 97:3 class imbalance
+- Engineered rate-of-change features (RSRP_diff, RSRQ_diff, SINR_diff) that pushed recall from near zero to 97% — feature engineering mattered more than model choice
+- Selected XGBoost at threshold 0.2 — optimised for recall, since a missed handover means a dropped call
+- Applied chronological splitting to prevent temporal data leakage
+- Built a modular codebase with separated data loading, preprocessing, feature engineering, training, evaluation, and prediction
 
-👉 [[Live Demo](https://microinsurance-predictor.streamlit.app/) | [Repository](https://github.com/chynaenye/microinsurance-predictor)
+👉 [Repository](https://github.com/chynaenye/network-handover-prediction)
 
 ---
 
-### 📊 Microinsurance Dashboard  
-An interactive dashboard for exploring customer behavior and dropout patterns.  
+### 🧠 Microinsurance Risk Predictor & Dashboard
+A classification model and interactive dashboard for predicting customer dropout risk in a microinsurance setting.
 
-- Visualizes trends and potential risk signals  
-- Supports data-driven decision-making  
-- Built and deployed with Streamlit  
+- Built with emphasis on recall — a missed high-risk customer is more costly than a false alarm
+- Visualises dropout trends and risk signals to support data-driven decisions
+- Deployed as two interactive tools using Streamlit
 
-👉 [Live Demo](https://microinsurance-risk-dashboard.streamlit.app/) | [Repository](https://github.com/chynaenye/Microinsurance-dashboard)
+👉 [Predictor Demo](https://microinsurance-predictor.streamlit.app/) | [Predictor Repo](https://github.com/chynaenye/microinsurance-predictor)  
+👉 [Dashboard Demo](https://microinsurance-risk-dashboard.streamlit.app/) | [Dashboard Repo](https://github.com/chynaenye/Microinsurance-dashboard)
 
 ---
 
 ## ⚙️ Tech Stack
-**Core:** R, Python, SQL  
-**Data & ML:** Pandas, scikit-learn  
-**Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-**Apps & Tools:** Streamlit, Excel  
-**Workflow:** Git
+
+**Languages:** Python, R, SQL  
+**Data & ML:** Pandas, NumPy, scikit-learn, XGBoost, imbalanced-learn  
+**Visualization:** Matplotlib, Seaborn  
+**Apps & Deployment:** Streamlit  
+**Workflow:** Git, modular Python project structure
 
 ---
 
-## 📈 Current Direction
-- Strengthening machine learning fundamentals  
-- Building more end-to-end ML projects  
-- Developing practical understanding of deployment and MLOps  
+## 📈 Current Focus
+
+Building depth in the ML fundamentals — model evaluation, feature engineering, handling real-world data — and moving toward systems that can actually be deployed and maintained.
+
+The skills I'm developing next, in sequence:
+
+- **MLOps** — how models are deployed, monitored, versioned, and improved over time
+- **Deep Learning** — neural networks and what they make possible beyond classical ML
+- **Computer Vision** — applying AI to image and sensor data for detection and classification problems
+- **AI Engineering** — building systems where models are one component of something larger
+- **Generative AI** — building practical applications on top of large language models
+
+The goal isn't to be everything at once. It's to build depth that compounds.
 
 ---
 
 ## 🔗 Connect
-- LinkedIn: [www.linkedin.com/in/chinenye-onwugamba]
+
+- LinkedIn: [chinenye-onwugamba](https://www.linkedin.com/in/chinenye-onwugamba)
