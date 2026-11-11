@@ -1,8 +1,8 @@
-# Hi, I'm Chinenye 👋
+# Hi, I'm Chinenye Onwugamba👋
 
-I'm a Machine Learning Engineer building AI systems that work in the real world — not just in notebooks.
+I'm a Machine Learning and AI Engineer building AI systems that work in the real world.
 
-I'm drawn to problems where getting it wrong has real consequences — dropped connections, missed risks, systems that fail the people depending on them. That's what drives how I build.
+I'm drawn to problems where getting it wrong has real consequences and systems that fail the people depending on them. That's what drives how I build.
 
 ---
 
